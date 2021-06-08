@@ -3,7 +3,7 @@
 
 Tool Used : Vivado 2019.1, Spartan-7
 
-# ABSTRACT
+### ABSTRACT
 
 ![image](https://user-images.githubusercontent.com/85278130/121148902-ceafad00-c85f-11eb-8915-1382a23cd94c.png)
                 
@@ -15,7 +15,7 @@ parking system, a sensor is used to detect the presence of a vehicle. Once the s
 requested to open the gate. If the entered password is correct, the gate opens to let the vehicle in, otherwise,
 the gate remains locked. This project is implemented on Spartan 7board
 
-# INTRODUCTION
+### INTRODUCTION
 
 Drivers searching for parking are estimated to be responsible for about 30% of
 traffic congestion in cities. Historically, cities, businesses, and property developers
@@ -32,7 +32,7 @@ Increasingly, this information is provided in real-time from intelligent devices
 enable both parking managers and drivers to optimize the use of parking capacity.
 
 
-# Motivation to use Parking System:
+### Motivation to use Parking System:
 
 
 1. New Revenue Streams – Many new revenue streams are possible with smart
@@ -79,17 +79,17 @@ improvements to drivers.
 10. Decreased Management Costs – More automation and less manual activity saves
   on labor cost and resource exhaustion.
   
- # Significance
+ ### Significance
  The smart parking system is considered beneficial for the
 car park operators, car park patrons as well as in environment
 conservation.
 
-# FSM For Car Parking System
+### FSM For Car Parking System
 
 ![image](https://user-images.githubusercontent.com/85278130/121150578-47633900-c861-11eb-88db-aeaa7ecb27ba.png)
               
               FIG2:- State Diagram for Car parking System
-# Verilog Coding
+### Verilog Coding
 
       `timescale 1ns / 1ps
 
@@ -240,7 +240,7 @@ conservation.
       endmodule
 
 
-# Verilog Testbench
+### Verilog Testbench
 
             `timescale 1ns / 1ps
 
@@ -311,7 +311,7 @@ conservation.
 
             endmodule
             
-# Simulation Result 
+### Simulation Result 
 
 ![image](https://user-images.githubusercontent.com/85278130/121156936-c27b1e00-c866-11eb-8f49-7c403117626a.png)
 
